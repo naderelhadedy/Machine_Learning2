@@ -1,2 +1,11 @@
 # Machine_Learning2
-Different Assignments
+
+These assignments covered
+
+* PCA
+* LDA
+* KMeans Clustering
+* Hirercical Clustering
+* DBSCAN
+* GMM
+* Naive Bayes
